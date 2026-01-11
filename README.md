@@ -150,7 +150,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 🧠 AI / ML Focus Badges (Optional but Strong):
+# 🧠 AI / ML Focus Badges:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-1F4E79?style=for-the-badge)
