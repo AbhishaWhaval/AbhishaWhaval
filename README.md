@@ -32,7 +32,7 @@
 - 💻 Check out my portfolios:
   -  [Main Portfolio](https://tubakhan.vercel.app/)
 -  Reach me at: **abhishawhaval@gmail.com**
--  <br> Reach me at: **www.linkedin.com/in/abhisha-whaval** 
+-  Reach me at: **www.linkedin.com/in/abhisha-whaval** 
 
 
 </p>
