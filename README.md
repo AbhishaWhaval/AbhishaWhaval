@@ -155,5 +155,13 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-1F4E79?style=for-the-badge)
 
+# 📊 GitHub Stats Badge:
+![Abhisha's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Abhisha1502&show_icons=true&theme=tokyonight)
+
+# 🔥 GitHub Streak Badge:
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhisha1502&theme=tokyonight)
+
+# 💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisha1502&layout=compact&theme=tokyonight)
 
 
